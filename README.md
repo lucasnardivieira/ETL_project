@@ -5,7 +5,7 @@ Este projeto mostra os passos e estratégias para um código de ETL
 Coleta de dados via web scraping.
 - requests
 - beautifulSoup
-- 
+  
 ## Transform
 Adequação dos dados para o formato desejado.
 - Pandas
